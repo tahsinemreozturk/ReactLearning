@@ -1,3 +1,14 @@
+# Bu projede basit bir şekilde müşteri ekleme, listeleme ve silme işlemlerinin yapılması sağlanmıştır.
+### Müşterilerin resimleri api üzerinden rastgele eklenmektedir.
+
+### Site Görünüşü
+![image](https://github.com/tahsinemreozturk/ReactLearning/assets/125802474/0a240489-11c0-491c-ab8d-31d0f8601740)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
